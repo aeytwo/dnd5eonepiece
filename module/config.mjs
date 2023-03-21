@@ -1227,7 +1227,10 @@ preLocalize("weaponTypes");
 DND5E.physicalWeaponProperties = {
   ada: "DND5E.WeaponPropertiesAda",
   mgc: "DND5E.WeaponPropertiesMgc",
-  sil: "DND5E.WeaponPropertiesSil"
+  sil: "DND5E.WeaponPropertiesSil",
+  sea: "DND5E.WeaponPropertiesSea",
+  bus: "DND5E.WeaponPropertiesBus",
+  coq: "DND5E.WeaponPropertiesCoq",
 };
 preLocalize("physicalWeaponProperties", { sort: true });
 
